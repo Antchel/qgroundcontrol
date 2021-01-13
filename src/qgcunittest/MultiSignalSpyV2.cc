@@ -6,6 +6,8 @@
  * COPYING.md in the root of the source code directory.
  *
  ****************************************************************************/
+#define _CRT_SECURE_NO_WARNINGS
+#pragma warning( disable : 4334)
 
 #include "MultiSignalSpyV2.h"
 #include <QEventLoop>

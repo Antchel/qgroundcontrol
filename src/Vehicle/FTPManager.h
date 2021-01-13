@@ -6,6 +6,8 @@
  * COPYING.md in the root of the source code directory.
  *
  ****************************************************************************/
+#pragma warning(disable: 5208)
+#define _CRT_SECURE_NO_WARNINGS
 
 #pragma once
 
